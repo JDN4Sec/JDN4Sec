@@ -158,6 +158,6 @@ That background isn't a detour — it's what makes me a different kind of securi
 
 *"The offensive techniques are learnable. The discipline to document and communicate them — that I've already built."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=40916c&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=JDN4Sec&color=40916c&style=flat-square)
 
 </div>
