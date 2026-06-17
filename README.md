@@ -88,8 +88,8 @@ I hold the **eJPT certification** (fully hands-on black-box exam, no multiple ch
 | # | Machine / Lab | Platform | OS | Difficulty | Key Skills |
 |---|--------------|----------|----|------------|-----------|
 | 01 | [Lame](https://github.com/JDN4Sec/pentest-writeups/tree/main/HTB-Lame) | HackTheBox | Linux | Easy | SMB enumeration, CVE-2007-2447, Metasploit |
-| 02 | [Jerry](./pentest-writeups/HTB-Jerry/) | HackTheBox | Windows | Easy | Tomcat manager, WAR web shell |
-| 03 | [Bashed](./pentest-writeups/HTB-Bashed/) | HackTheBox | Linux | Easy | Web shell, sudo misconfiguration |
+| 02 | [Jerry](https://github.com/JDN4Sec/pentest-writeups/tree/main/HTB-Jerry) | HackTheBox | Windows | Easy | Tomcat manager, WAR web shell |
+| 03 | [Bashed](https://github.com/JDN4Sec/pentest-writeups/tree/main/HTB-Bashed) | HackTheBox | Linux | Easy | Web shell, sudo misconfiguration |
 | 04 | *Coming soon* | | | | |
 | 05 | *Coming soon* | | | | |
 
